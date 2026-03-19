@@ -14,7 +14,7 @@ https://vyos.net/get/nightly-builds/
   - Adapter 2: LAN segment
 - Verbind alle andere DevOps machines met het LAN segment
 
-![VMWARE_network](images/vmware_network_adapter.png)
+![VMWARE_network](../../images/vmware_network_adapter.png)
 
 
 
