@@ -2,6 +2,8 @@
 
 > Use VMWare workstation
 
+> Git server we do not use Turnkey, but create an own ubuntu server with git (see 04_Versiebeheer)
+
 1. VYOS router [VyOS ROUTER installation](VYOS_devops_setup.md)
 2. Install an Ubuntu desktop \
 Add it to your LAN segment and give it a static IP
