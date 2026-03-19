@@ -2,13 +2,9 @@
 
 > Use VMWare workstation
 
-1. VYOS router 
-
-[VyOS ROUTER installation](VYOS_devops_setup.md)
-
-2. Install an Ubuntu desktop
+1. VYOS router [VyOS ROUTER installation](VYOS_devops_setup.md)
+2. Install an Ubuntu desktop \
 Add it to your LAN segment and give it a static IP
-
 3. Ubuntus server
 [UBUNTU static IP](UBUNTU_static_ip.md)
 
