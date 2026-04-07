@@ -1,4 +1,4 @@
-content = '''# ✅ Opdracht 1 – DevOps voor een Start‑up
+# 06 Uitdaging eindopdracht
 
 ## Situatieschets
 Je werkt als beginnende DevOps-engineer voor een snelgroeiende start-up. De organisatie levert diverse clouddiensten en verwacht binnen korte tijd op te schalen naar 100 medewerkers. Daarom moet de technische omgeving standaardiseerbaar, schaalbaar en volledig scriptbaar zijn.
@@ -46,4 +46,3 @@ Voer alles fysiek en technisch uit volgens het plan.
 
 ## Terugkijken (Reflectie)
 Schrijf over een moment waarop je iets anders of beter had kunnen doen en wat je ervan hebt geleerd.
-'''
