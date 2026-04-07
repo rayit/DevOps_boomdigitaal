@@ -42,7 +42,7 @@ Installeer osTicket via Docker op een van de Raspberry Pi’s.
 Maak een schets waarin je je stappen plant voor rackopbouw, Pi-installaties, Ansible, Docker en testen.
 
 ## Uitvoering
-Voer alles fysiek en technisch uit volgens het plan.
+Voer alles fysiek en technisch uit volgens het plan en documenteer dit in git.
 
 ## Terugkijken (Reflectie)
 Schrijf over een moment waarop je iets anders of beter had kunnen doen en wat je ervan hebt geleerd.
